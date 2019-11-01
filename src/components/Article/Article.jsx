@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import styles from "./Article.module.scss";
+// import { articles } from "./data.js";
 
 class Article extends Component {
   render() {
