@@ -1,22 +1,13 @@
-.app {
-  text-align: center;
+body {
+  background-color: white;
 }
 
 .appLogo {
-  height: 40vmin;
+  height: 10vh;
 }
 
 .appHeader {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.appLink {
-  color: #09d3ac;
+  color: #07AAA3;
+  border-bottom: 3px solid grey;
+  min-height: 10vh;
 }
