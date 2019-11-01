@@ -1,13 +1,37 @@
+.headerBody {
+  color: #07AAA3;
+  box-shadow:0px 3px 6px grey;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  padding-top: 15px;
+  height: 10vh;
+}
+
+.headerLogo {
+  vertical-align: middle;
+  height: 35px;
+}
+
 .headerLinks {
+  color: black;
   font-family: 'Trebuchet MS', sans-serif;
   text-transform: uppercase;
   text-decoration: none;
   font-weight: bold;
-  color: black;
   font-size: 16px;
-  margin: 0 5px 0 5px;
+  padding-bottom: 10px;
 }
 
 .headerLinks:hover, .headerLinks:active {
   color: #07AAA3;
 }
+
+.headerBurger {
+  color: black;
+  vertical-align: middle;
+  font-size: 30px;
+}
+
