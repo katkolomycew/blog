@@ -1,6 +1,7 @@
 import React from 'react';
 // import styles from './App.module.scss';
 import Header from "../../components/Header";
+import Article from "../../components/Article";
 
 class App extends React.Component {
   render() {
@@ -10,7 +11,12 @@ class App extends React.Component {
           <Header />
         </header>
         <main>
-          Lorem ipsum.
+          <Article />
+          <Article />
+          <Article />
+          <Article />
+          <Article />
+          <Article />
         </main>
       </body>
     )
