@@ -1,3 +1,7 @@
+React Blog — November 2019 (_nology)
+
+After one week of working with React and JSX, we were tasked to mimick a screenshot to improve several areas such as props, state, and basic database work.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
